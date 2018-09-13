@@ -7,22 +7,10 @@ export const addPlace = (placeName) => {
   };
 };
 
-export const selectPlace = key => {
+export const deletePlace = (key) => {
   return {
-    type: SELECT_PLACE,
+    type: DELETE_PLACE,
     placeKey: key
   };
 };
 
-export const deletePlace = () => {
-  return {
-    type: DELETE_PLACE
-  };
-};
-
-
-export const deselectPlace = () => {
-  return {
-    type: DESELECT_PLACE
-  };
-};
