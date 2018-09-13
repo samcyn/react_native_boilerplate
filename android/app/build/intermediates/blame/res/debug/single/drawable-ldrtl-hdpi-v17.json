@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

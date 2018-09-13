@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/db16bee025d07306c5d53322e99ecd020399a96f/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

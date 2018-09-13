@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/db16bee025d07306c5d53322e99ecd020399a96f/output/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/db16bee025d07306c5d53322e99ecd020399a96f/output/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

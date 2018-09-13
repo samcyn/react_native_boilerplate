@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/res/anim/design_fab_out.xml"
+    }
+]

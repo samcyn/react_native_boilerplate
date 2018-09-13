@@ -1,0 +1,4 @@
+#Thu Sep 13 04:15:11 WAT 2018
+base.0=/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
