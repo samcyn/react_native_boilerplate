@@ -12,6 +12,9 @@ import PickLocation from '../../components/PickLocation/PickLocation';
 
 
 class SharePlaceScreen extends Component {
+  static navigatorStyle = {
+    navBarButtonColor: "orange"
+  };
 
   constructor(props) {
     super(props);
@@ -37,7 +40,7 @@ class SharePlaceScreen extends Component {
       //dispatch action
       this.props.onAddPlace(this.state.placeName);  
     }
-  };
+  }
 
   placeNameChangeHandler = val => {
     this.setState({

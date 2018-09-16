@@ -8,13 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../src/components/PlaceInput/PlaceInput.js" afterPath="$PROJECT_DIR$/../src/components/PlaceInput/PlaceInput.js" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/Auth/Auth.js" afterPath="$PROJECT_DIR$/../src/screens/Auth/Auth.js" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/MainTabs/startMainTabs.js" afterPath="$PROJECT_DIR$/../src/screens/MainTabs/startMainTabs.js" />
       <change beforePath="$PROJECT_DIR$/../src/screens/PlaceDetail/PlaceDetail.js" afterPath="$PROJECT_DIR$/../src/screens/PlaceDetail/PlaceDetail.js" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/SharePlace/SharePlace.js" afterPath="$PROJECT_DIR$/../src/screens/SharePlace/SharePlace.js" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/SideDrawer/SideDrawer.js" afterPath="$PROJECT_DIR$/../src/screens/SideDrawer/SideDrawer.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
