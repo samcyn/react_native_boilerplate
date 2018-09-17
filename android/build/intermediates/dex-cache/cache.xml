@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/7b2640fe7060d8498aa869666b2073509cd331c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_8dba4d2625222b8fb4a7ff2ef24d4eb3833a85cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tss-devs-2/.android/build-cache/d73a41a67df490b68c0228082ae8c734166fd2f9/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,21 +75,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a0c183964ca867ef3a68e677fe6c74f4cf9a9a99.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/tss-devs-2/.android/build-cache/96a27ff2973ff37f41c0e4704a6821923f12ae30/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
         <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_901feeaacdebda396e1491891a268a137aa36da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/7b2640fe7060d8498aa869666b2073509cd331c8/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3673733d43ffa3b93ff190946637ce566cf115ab.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,21 +129,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_30908784de221873b7c30ac1af4a744867439d3a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/tss-devs-2/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
         <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9fc7bfee5141dce58b623bb77d1e802735c49115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/e116d08715b1d08b7900a083a5b2619b04ae2a9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_b5e5a4b0271a93da0f3dc5b34dc33ed4926c4f8e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,6 +183,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/24f09b56f25d5d52ee2c889d63d228de4c60ad79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_6b5b189abe6d1d7aad1b0a0d1cab016dd47feedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tss-devs-2/.android/build-cache/b57d39638cbd1e99b346626a2f8371564a3b6168/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -201,6 +219,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/802fe67fbd67d16ade3df8241b12d2093a065223/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_e0231db6cf84f502f88520234b9aebdc1371dae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tss-devs-2/.android/build-cache/d71b948516f96006552258cc50bf11066a9ca832/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -219,12 +246,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_cf9bd5d3ae6e789ccd7ee2dd9cc8aed5627fb624.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tss-devs-2/.android/build-cache/9bd05d2e9dd30e60aca84fd3115b1dfda3df280b/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
         <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_2ae10f88f0ce0bba5cc114d188973c54418cc683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a9cb31b4e3d157b12a7eafb1d7c963501b2b98d4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -243,6 +288,15 @@
         revision="25.0.0"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
         <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_cdeb5aba7e452a738771312d990253b0d4fed2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a2dd74d9b781e05f437e7897701f442a93b91cb">
+        <dex dex="/home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_833b5dd73ad59bf7f3400f1fc18da36750bef74c.jar" />
     </item>
     <item
         is-multidex="false"

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-29:12
 	package
 		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:2:5-33
 		INJECTED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml
@@ -15,33 +15,40 @@ ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/
 		INJECTED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [awesomeProject:react-native-maps:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/tss-devs-2/.android/build-cache/7b2640fe7060d8498aa869666b2073509cd331c8/output/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:7:5-27:19
 MERGED from [awesomeProject:react-native-navigation:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:11:5-18:19
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/tss-devs-2/.android/build-cache/db16bee025d07306c5d53322e99ecd020399a96f/output/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:25.3.1] /home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/tss-devs-2/.android/build-cache/afa40fce1180c3ff7b7f2b398eef6791ff354ab3/output/AndroidManifest.xml:26:5-20
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/tss-devs-2/.android/build-cache/9bd05d2e9dd30e60aca84fd3115b1dfda3df280b/output/AndroidManifest.xml:12:5-20
 MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/tss-devs-2/.android/build-cache/b57d39638cbd1e99b346626a2f8371564a3b6168/output/AndroidManifest.xml:12:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/tss-devs-2/.android/build-cache/7b2640fe7060d8498aa869666b2073509cd331c8/output/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/56f44200ef1893389a03c025255cab6e55ff1a0f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/ae72fe907f888c7c14360232dec6e3f3d21941e7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/tss-devs-2/.android/build-cache/69e6690ede1f84014e013214c38790c8fce5bdea/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/tss-devs-2/.android/build-cache/0927950bc92ac77223c0b7f650447eedd56c6b25/output/AndroidManifest.xml:2:3-17
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/tss-devs-2/.android/build-cache/24f09b56f25d5d52ee2c889d63d228de4c60ad79/output/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/tss-devs-2/.android/build-cache/802fe67fbd67d16ade3df8241b12d2093a065223/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/tss-devs-2/.android/build-cache/e116d08715b1d08b7900a083a5b2619b04ae2a9e/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:25.3.1] /home/tss-devs-2/.android/build-cache/ee880641aa3a8ef8878c9d30ff05967688831826/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/tss-devs-2/.android/build-cache/96a27ff2973ff37f41c0e4704a6821923f12ae30/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/tss-devs-2/.android/build-cache/d73a41a67df490b68c0228082ae8c734166fd2f9/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/tss-devs-2/.android/build-cache/f097f6413c1e7a19f07171dc53dc2036459e83f7/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/tss-devs-2/.android/build-cache/d5148b89fe2348cc61e89a8fc91e5e954e456ad4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/56f44200ef1893389a03c025255cab6e55ff1a0f/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/ae72fe907f888c7c14360232dec6e3f3d21941e7/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/tss-devs-2/.android/build-cache/56c4973eed0a07274459838bab9d412ca71db4d8/output/AndroidManifest.xml:29:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/tss-devs-2/.android/build-cache/69e6690ede1f84014e013214c38790c8fce5bdea/output/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/tss-devs-2/.android/build-cache/0927950bc92ac77223c0b7f650447eedd56c6b25/output/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:allowBackup
@@ -79,6 +86,12 @@ MERGED from [awesomeProject:react-native-navigation:unspecified] /home/tss-devs-
 		ADDED from [awesomeProject:react-native-navigation:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:24:7-26:66
+	android:value
+		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:25:9-54
 uses-sdk
 INJECTED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [awesomeProject:react-native-navigation:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
@@ -89,16 +102,11 @@ MERGED from [com.android.support:transition:25.3.1] /home/tss-devs-2/.android/bu
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/tss-devs-2/.android/build-cache/9bd05d2e9dd30e60aca84fd3115b1dfda3df280b/output/AndroidManifest.xml:8:5-10:41
 MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/tss-devs-2/.android/build-cache/b57d39638cbd1e99b346626a2f8371564a3b6168/output/AndroidManifest.xml:8:5-10:41
 MERGED from [awesomeProject:react-native-vector-icons:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /home/tss-devs-2/.android/build-cache/fe6773c726214d9a290b967ee398b3c4dcfcb2b0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [awesomeProject:react-native-maps:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/tss-devs-2/.android/build-cache/7b2640fe7060d8498aa869666b2073509cd331c8/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /home/tss-devs-2/.android/build-cache/ee880641aa3a8ef8878c9d30ff05967688831826/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/tss-devs-2/.android/build-cache/96a27ff2973ff37f41c0e4704a6821923f12ae30/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/tss-devs-2/.android/build-cache/d73a41a67df490b68c0228082ae8c734166fd2f9/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/tss-devs-2/.android/build-cache/f097f6413c1e7a19f07171dc53dc2036459e83f7/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/tss-devs-2/.android/build-cache/d5148b89fe2348cc61e89a8fc91e5e954e456ad4/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/56f44200ef1893389a03c025255cab6e55ff1a0f/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/ae72fe907f888c7c14360232dec6e3f3d21941e7/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /home/tss-devs-2/.android/build-cache/56c4973eed0a07274459838bab9d412ca71db4d8/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/tss-devs-2/.android/build-cache/72d6b46e58bcd654e3bd7ad4471bb02f6f7c6442/output/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] /home/tss-devs-2/.android/build-cache/60ea0c4c4dc63ccbf5a6636dccec8d4c5ceebf54/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] /home/tss-devs-2/.android/build-cache/37eddd2c6947e8fb945d5711a02a506cb160acb2/output/AndroidManifest.xml:5:5-7:41
@@ -107,6 +115,17 @@ MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/tss-devs-2/.android/
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/tss-devs-2/.android/build-cache/b50dbf5bd57cb676650c01f77771f4b2a6dca4f5/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/tss-devs-2/.android/build-cache/d7d3e57dea43feb27687490605093ee985c466a4/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/tss-devs-2/.android/build-cache/69e6690ede1f84014e013214c38790c8fce5bdea/output/AndroidManifest.xml:2:3-70
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/tss-devs-2/.android/build-cache/24f09b56f25d5d52ee2c889d63d228de4c60ad79/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/tss-devs-2/.android/build-cache/802fe67fbd67d16ade3df8241b12d2093a065223/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/tss-devs-2/.android/build-cache/e116d08715b1d08b7900a083a5b2619b04ae2a9e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /home/tss-devs-2/.android/build-cache/ee880641aa3a8ef8878c9d30ff05967688831826/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/tss-devs-2/.android/build-cache/96a27ff2973ff37f41c0e4704a6821923f12ae30/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/tss-devs-2/.android/build-cache/d73a41a67df490b68c0228082ae8c734166fd2f9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/tss-devs-2/.android/build-cache/f097f6413c1e7a19f07171dc53dc2036459e83f7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/tss-devs-2/.android/build-cache/d5148b89fe2348cc61e89a8fc91e5e954e456ad4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/tss-devs-2/.android/build-cache/56c4973eed0a07274459838bab9d412ca71db4d8/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] /home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -126,21 +145,50 @@ ADDED from [com.android.support:design:25.3.1] /home/tss-devs-2/.android/build-c
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/tss-devs-2/.android/build-cache/bc42a9f25eb6de3bff83109830d5a02239978b1f/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:transition:25.3.1] /home/tss-devs-2/.android/build-cache/afa40fce1180c3ff7b7f2b398eef6791ff354ab3/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/tss-devs-2/.android/build-cache/cb3ad361f32b604b679bb7e5372316fbbf351906/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/56f44200ef1893389a03c025255cab6e55ff1a0f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/ae72fe907f888c7c14360232dec6e3f3d21941e7/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /home/tss-devs-2/.android/build-cache/ee880641aa3a8ef8878c9d30ff05967688831826/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /home/tss-devs-2/.android/build-cache/96a27ff2973ff37f41c0e4704a6821923f12ae30/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/tss-devs-2/.android/build-cache/d73a41a67df490b68c0228082ae8c734166fd2f9/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/tss-devs-2/.android/build-cache/f097f6413c1e7a19f07171dc53dc2036459e83f7/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/tss-devs-2/.android/build-cache/d5148b89fe2348cc61e89a8fc91e5e954e456ad4/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/56f44200ef1893389a03c025255cab6e55ff1a0f/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tss-devs-2/.android/build-cache/ae72fe907f888c7c14360232dec6e3f3d21941e7/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-compat:25.3.1] /home/tss-devs-2/.android/build-cache/56c4973eed0a07274459838bab9d412ca71db4d8/output/AndroidManifest.xml:25:5-27:34
 	android:value
 		ADDED from [com.android.support:design:25.3.1] /home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:design:25.3.1] /home/tss-devs-2/.android/build-cache/353de2fb34a972714d7424312057c8ba866bb718/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [awesomeProject:react-native-maps:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [awesomeProject:react-native-maps:unspecified] /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:10:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/tss-devs-2/Documents/REPOS/REACT_NATIVE/awesomeProject/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/tss-devs-2/.android/build-cache/24f09b56f25d5d52ee2c889d63d228de4c60ad79/output/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/tss-devs-2/.android/build-cache/e116d08715b1d08b7900a083a5b2619b04ae2a9e/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/tss-devs-2/.android/build-cache/24f09b56f25d5d52ee2c889d63d228de4c60ad79/output/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/tss-devs-2/.android/build-cache/24f09b56f25d5d52ee2c889d63d228de4c60ad79/output/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tss-devs-2/.android/build-cache/a9d2b1d80b9b51389752b80a886e14a6f7fb1bcb/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tss-devs-2/.android/build-cache/d7f26c65e2a5d9ccb45399985cf4c310d5883a13/output/AndroidManifest.xml:19:19-85
