@@ -8,7 +8,15 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/../src/screens/PlaceDetail/PlaceDetail.js" afterPath="$PROJECT_DIR$/../src/screens/PlaceDetail/PlaceDetail.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../src/components/PlaceInput/PlaceInput.js" afterPath="$PROJECT_DIR$/../src/components/PlaceInput/PlaceInput.js" />
+      <change beforePath="$PROJECT_DIR$/../src/components/UI/ButtonWithBackground/ButtonWithBackground.js" afterPath="$PROJECT_DIR$/../src/components/UI/ButtonWithBackground/ButtonWithBackground.js" />
+      <change beforePath="$PROJECT_DIR$/../src/components/UI/DefaultInput/DefaultInput.js" afterPath="$PROJECT_DIR$/../src/components/UI/DefaultInput/DefaultInput.js" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Auth/Auth.js" afterPath="$PROJECT_DIR$/../src/screens/Auth/Auth.js" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/FindPlace/FindPlace.js" afterPath="$PROJECT_DIR$/../src/screens/FindPlace/FindPlace.js" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/SharePlace/SharePlace.js" afterPath="$PROJECT_DIR$/../src/screens/SharePlace/SharePlace.js" />
+      <change beforePath="$PROJECT_DIR$/../src/store/actions/actionTypes.js" afterPath="$PROJECT_DIR$/../src/store/actions/actionTypes.js" />
+      <change beforePath="$PROJECT_DIR$/../src/store/actions/index.js" afterPath="$PROJECT_DIR$/../src/store/actions/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -3764,8 +3772,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -3777,15 +3783,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="sync.plugin.last.upgrade.timestamp" value="1537029242981" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1537146719951" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
   </component>

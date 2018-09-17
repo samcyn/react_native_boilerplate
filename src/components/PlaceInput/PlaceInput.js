@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import DefaultInput from '../UI/DefaultInput/DefaultInput';
 
-const PlaceInput = ({placeName, onChangeText }) => ( 
+const PlaceInput = ({ onChangeText, placeData }) => ( 
   <DefaultInput 
     placeholder="Place Name" 
-    value={ placeName } 
+    value={ placeData.value } 
+    valid = { placeData.valid }
+    touched = { placeData.touched }
     onChangeText = { onChangeText } />
 );  
 
